@@ -12,7 +12,7 @@ for(let i=0; i<nCount; i++){
     else{
         coinFlip = 1;
     }
-
+    
     if(coinFlip===0){
         console.log("Heads");
     }

@@ -10,7 +10,6 @@ do{
     else{
         coinFlip = 1;
     }
-
     if(coinFlip===0){
         console.log("Heads");
     }

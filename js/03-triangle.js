@@ -6,6 +6,5 @@ for(let i=0; i<nCount; i++){
     for(let j=0; j<i+1; j++){
         strLine += "#"
     }
-
     console.log(strLine);
 }
